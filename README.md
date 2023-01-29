@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/testimonials-grid-section-S3t-Ue625g
+- Live Site URL: https://frolicking-concha-1e5ea3.netlify.app/
 
 ## My process
 
@@ -41,4 +41,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/aniket167779)
+- Frontend Mentor - [@aniket167779](https://www.frontendmentor.io/profile/aniket167779)
